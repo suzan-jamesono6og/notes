@@ -29,3 +29,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2023-11-23
 - "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. It's important to take the time to properly design your software architecture and choose appropriate data structures and algorithms. Remember that code is read more often than it is written, so strive to make your code easy to understand for yourself and others who may need to work with it in the future. Lastly, don't be afraid to ask for help or seek out resources when you get stuck - collaboration and continuous learning are key to becoming a better programmer."
+
+# 2023-11-24
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." - Unknown
+
+This quote emphasizes the importance of writing clean, well-structured, and easily understandable code. It's not just about making your own life easier when you have to revisit your code in the future, but also about considering the experience of others who may have to work with your code. By following best practices and striving for clarity and readability, you can help ensure that your code is maintainable and can be built upon by others.
