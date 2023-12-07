@@ -88,3 +88,8 @@ This quote reminds us that optimizing code before it's necessary can lead to com
 
 # 2023-12-06
 - Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It's important to remember that code is read far more often than it's written, so taking the time to make it easy to understand for yourself and others will save time and headaches in the long run. This includes using clear and descriptive variable names, commenting your code thoroughly, and breaking complex tasks into smaller, more manageable functions. Additionally, it's important to embrace best practices and established design patterns, rather than trying to reinvent the wheel or overly optimizing code for performance. By prioritizing readability and maintainability, you'll produce higher quality software that's easier to work with and less prone to bugs and errors.
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potentially suboptimal solutions. It's better to write clear and simple code first, then optimize only when profiling identifies performance bottlenecks.
