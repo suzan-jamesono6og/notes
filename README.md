@@ -154,3 +154,9 @@ This principle, often attributed to Leonardo da Vinci, reminds us that while it'
 
 # 2023-12-24
 - "Keep it simple, stupid!"
+
+# 2023-12-25
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, you must also develop excellent communication and teamwork skills, as most projects involve collaborating with other professionals. Effective communication helps to ensure that everyone is on the same page and that the project remains on track. Additionally, learning to speak up and ask questions when you don't understand something is essential for growth and problem-solving. 
+ - 来自NLP
