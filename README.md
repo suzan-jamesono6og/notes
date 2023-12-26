@@ -160,3 +160,10 @@ This principle, often attributed to Leonardo da Vinci, reminds us that while it'
 
 To be successful in the programming field, you must also develop excellent communication and teamwork skills, as most projects involve collaborating with other professionals. Effective communication helps to ensure that everyone is on the same page and that the project remains on track. Additionally, learning to speak up and ask questions when you don't understand something is essential for growth and problem-solving. 
  - 来自NLP
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ --
+ Second, wisely plan and allocate your timetime. Set aside specific blocks of time for each task, taking into account the complexity and importance of the task. For example, if you know that a particular task requires a lot of concentration and time, allocate a longer block of uninterrupted time rather than trying to fit it in between other tasks that require less focus. Additionally, use your planning to avoid common time wasters, like checking social media or browsing the internet. You can use apps like Focus@Will or Forest to help keep you focused.
