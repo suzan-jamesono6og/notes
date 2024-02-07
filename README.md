@@ -369,3 +369,14 @@ In practice, this means using descriptive variable names, following established 
 
 Secondly, planning ahead is crucial. Before starting a project, think about the end goal and break it down into smaller tasks. Creating a plan will make it easier to stay focused and on track. You can use tools like Trello or Asana to help with project management and task tracking. These tools can help keep you organized and make sure you don't get lost in the details. 
  - 来自NLP
+
+# 2024-02-07
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this translates to writing clean, maintainable code that's easy to understand and modify. Strive for clarity and avoid unnecessary complexity. Remember that you write code not only for machines but also for fellow human beings who will read and work with it long after it's written." 
+
+In practice, this means:
+1. Use descriptive variable names.
+2. Break down complex problems into smaller, manageable functions.
+3. Follow established design patterns and principles (like SOLID).
+4. Comment your code effectively, especially for non-obvious logic.
+5. Regularly refactor to eliminate redundant or convoluted sections of code.
+6. Test your code thoroughly to ensure simplicity does not compromise functionality.
